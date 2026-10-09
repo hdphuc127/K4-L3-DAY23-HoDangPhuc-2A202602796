@@ -8,7 +8,7 @@
 - MSSV: 2A202602796
 - Email: phucdhoangh@gmail.com
 - Link repo (fork): https://github.com/hdphuc127/K4-L3-DAY23-HoDangPhuc-2A202602796
-- Commit hash nộp (`git rev-parse HEAD`):
+- Commit hash nộp (`git rev-parse HEAD`): 775e2f8d8ada12d7ba0b7b95617439302e53c9d0
 
 ## Tóm tắt kết quả
 
